@@ -1,0 +1,27 @@
+# Quality Quotes AI - User Engagement Analysis
+# Python Dependencies
+
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Data Generation
+faker>=18.0.0
+
+# Statistical Analysis
+scipy>=1.10.0
+statsmodels>=0.14.0  # Required for Plotly trendlines
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.22.0
+
+# Optional: Enhanced Features
+# kaleido>=0.2.1  # For static image export from Plotly
+# nbconvert>=7.3.0  # For converting notebooks to other formats
